@@ -1,0 +1,7 @@
+prints (80 - N)/2 spaces 
+	where N is equal to the char count
+when 0 spaces are printed, break
+
+needs to use a function that when called, calculates that line. 
+
+
